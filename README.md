@@ -1,1 +1,1 @@
-https://colab.research.google.com/
+https://colab.research.google.com/github/1x019/ColabSSH/blob/main/ColabSSH.ipynb
